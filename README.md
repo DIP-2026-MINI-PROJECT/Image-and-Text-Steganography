@@ -65,7 +65,7 @@ The required image files should be placed in the Images/ directory.
 
 ### Steps:
 1. Clone Repository
-```git clone https://github.com/DIP-2026-MINI-PROJECT/Image-and-Text-Steganography.git```
+git clone https://github.com/DIP-2026-MINI-PROJECT/Image-and-Text-Steganography.git
 
 2. Install Dependencies
    Required software:
@@ -75,9 +75,9 @@ The required image files should be placed in the Images/ directory.
    Wavelet Toolbox
 
 4. Run the Code
-```run(fullfile('Text-in-Image','text_in_image.m'))```
+run(fullfile('Text-in-Image','text_in_image.m'))
 
-```run(fullfile('Image-in-Image','image_in_image.m'))```
+run(fullfile('Image-in-Image','image_in_image.m'))
 
 ### Outputs:
 * Important intermediate steps
