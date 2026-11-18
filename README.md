@@ -95,8 +95,6 @@ Generated stego image
 Recovered secret image
 PSNR, BER, recovery accuracy and secret image MSE
 
-* Final output images 
-
 
 ### References:
 1. - MATLAB Documentation — dwt2: https://www.mathworks.com/help/wavelet/ref/dwt2.html
